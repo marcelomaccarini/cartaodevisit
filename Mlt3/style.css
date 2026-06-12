@@ -4,13 +4,22 @@ h1{
     background-color: #004b25;
 }
 img{
-    width: 300px;
+    width: 400px;
 }
 body{
     text-align: center;
+    background-color: #10854c;
+    background-image: url("https://i.redd.it/dev3kt8audig1.gif");
 }
 h2{
     color:rgb(255, 255, 255);
     text-align: center ;
     background-color: #004b25;
+}
+.cartao{
+background-color: rgba(255, 255, 255, 0.473);
+width: 500px;
+margin: auto;
+border-radius: 40px;
+border-style: solid
 }
