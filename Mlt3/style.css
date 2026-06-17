@@ -1,0 +1,49 @@
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center ;
+    background-color: #004b25;
+}
+img{
+    width: 420px;
+}
+body{
+    text-align: center;
+    background-color: #10854c;
+    background-image: url("https://i.redd.it/dev3kt8audig1.gif");
+}
+.divpai{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color:rgb(255, 255, 255);
+    text-align: center ;
+    background-color: #004b25;
+}
+.cartao{
+background-color: rgba(255, 255, 255, 0.616);
+width: 500px;
+margin: auto;
+border-radius: 50px;
+border-style: solid
+}
+.cartao2{
+background-color: rgba(255, 255, 255, 0.603);
+width: 500px;
+margin: auto;
+border-radius: 50px;
+border-style: solid;
+img{
+    width:380px;}
+    h1{
+    color:rgb(255, 255, 255);
+    text-align: center ;
+    background-color: #4b003b;
+}
+    h2{
+    color:rgb(255, 255, 255);
+    text-align: center ;
+    background-color: #4b003b;
+}
+}
