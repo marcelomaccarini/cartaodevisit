@@ -1,0 +1,22 @@
+.alfa {
+    text-align: center;
+color:rgb(255, 255, 255);
+background-color: rgb(43, 80, 7);
+border-radius: 50px;
+
+width: 500px;
+}
+h1{
+    
+text-align: center;
+color: black;
+}
+img{
+    width:450px;
+}
+body{justify-content: center;
+    display: flex;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQImCRPhNEIujWhy3xDfy8qYv5GR_0qEVcG9w&s);
+    align-items: center;
+}
+
